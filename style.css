@@ -36,16 +36,54 @@ nav{
 
 .banner{
     display: flex;
+    justify-content: space-between;
 }
 
 .text{
+    margin-top: 100px;
+    margin-left: 0;
+}
+
+.text > h1{
+    font-size: xx-large;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight:900;
+    color: blue;
     
+}
+
+.p-1, .p-2, .p-3{
+    margin-top: 10px;
+}
+
+button{
+    margin-top: 20px;
+}
+
+.btn-sign{
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin-right: -20px;
+}
+
+.btn-go{
+    background-color: skyblue;
+    color: white;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 20px;
 }
 
 
 .banner-img{
     height: 400px;
     width: 400px;
+    margin-left: 100px;
+    margin-right: 0;
 }
 
 /*banner end*/
