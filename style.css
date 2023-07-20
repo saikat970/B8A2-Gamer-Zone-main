@@ -28,7 +28,25 @@ nav{
     margin-top: 20px;
 }
 
-.nav > li {
+.nav-link > ul {
     display: flex;
 }
+
+/*banner start*/
+
+.banner{
+    display: flex;
+}
+
+.text{
+    
+}
+
+
+.banner-img{
+    height: 400px;
+    width: 400px;
+}
+
+/*banner end*/
 
