@@ -37,6 +37,7 @@ nav{
 .banner{
     display: flex;
     justify-content: space-between;
+    padding: 10px;
 }
 
 .text{
@@ -129,3 +130,21 @@ button{
 
 /* We are gamer end */
 
+/* Online Games Funny Videos start */
+
+.online-games-funny-v{
+    margin-top: 30px;
+}
+
+.online-games-text{
+    text-align: center;
+}
+
+.oline-games-img{
+    display: grid;
+    grid-template-row: repeat(1, 1fr);
+    width: 100px;
+    height: 100px;
+}
+
+/* Online Games Funny Videos end */
