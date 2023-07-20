@@ -88,3 +88,16 @@ button{
 
 /*banner end*/
 
+/* We are gamer start */
+
+.we-are-gamer{
+    display: flex;
+    padding: 20px 0;
+}
+
+.we-text{
+    width: 50%;
+}
+
+/* We are gamer end */
+
