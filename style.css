@@ -1,11 +1,12 @@
 *{
     margin: 0 40px;
     font-family: 'lato', sans-serif;
+    justify-content: center;
    
 }
 
 header{
-    
+    margin-left: -20px;
     height: 100px;
     color: black;
 }
@@ -56,11 +57,6 @@ nav li a{
     margin-left: -23px;
 }
 
-
-
-
-
-
 /*banner start*/
 
 .banner{
@@ -69,9 +65,10 @@ nav li a{
     padding: 10px;
 }
 
-.text{
+ .banner .text{
     margin-top: 100px;
     margin-left: 0;
+    justify-content: start;
 }
 
 .text > h1{
@@ -85,6 +82,7 @@ nav li a{
 
 .p-1, .p-2, .p-3{
     margin-top: 10px;
+    margin-left: 40px;
 }
 
 button{
