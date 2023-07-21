@@ -230,6 +230,27 @@ button{
     background-color: #0B0223;
     color: white;
     margin-top: 20px;
+    
+}
+
+footer li{
+    list-style: none;
+}
+
+footer .ul-1{
+    display: flex;
+    margin: 20px 0;
+    margin-left: 60px;
+}
+
+footer .ul-2{
+    display: flex;
+    margin: 20px 0;
+    margin-left: 100px;
+}
+
+.footer-logo{
+    text-align: center;
 }
 
 .footer p{
