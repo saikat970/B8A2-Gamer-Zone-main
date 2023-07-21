@@ -168,3 +168,14 @@ button{
 }
 
 /* Online Games Funny Videos end */
+
+/* games-section */
+
+.action-games{
+    display: flex;
+    max-width: 1400px;
+}
+
+.games-section1{
+    display: flex;
+}
