@@ -92,42 +92,7 @@ button{
 
 /* We are gamer start */
 
-.we-are-gamer{
-    display: flex;
-    padding: 20px 0;
-}
 
-.we-text{
-    width: 60%;
-    text-align: end;
-}
-
-.we-text h1{
-    color: blue;
-    margin-bottom: 20px;
-}
-
-.we-text p{
-    line-height: 20px;
-}
-
-.btn-k-m{
-    margin-left: 200px;
-    padding: 15px;
-    background-color: blue;
-    border-radius: 25px;
-    border: none;
-    color: white;
-}
-
-.our-pur{
-    text-align: end;
-}
-
-.our-p{
-    margin-left: 140px;
-    margin-top: 20px;
-}
 
 /* We are gamer end */
 
