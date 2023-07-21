@@ -134,17 +134,37 @@ button{
 
 .online-games-funny-v{
     margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .online-games-text{
     text-align: center;
+    margin-bottom: 30px;
+    margin-left: 150px;
 }
 
-.oline-games-img{
-    display: grid;
-    grid-template-row: repeat(1, 1fr);
-    width: 100px;
-    height: 100px;
+.online-games-text h2{
+    font-size: xx-large;
+    margin-bottom: 10px;
+}
+
+.funny-videos{
+    color: blue;
+}
+
+.online-games{
+    margin-right: -40px;
+}
+
+.online-games-img{
+    max-width: 1400px;
+    display: flex;
+    padding: 10px;
+}
+
+.online-games-img img{
+    width: 200px;
+    
 }
 
 /* Online Games Funny Videos end */
