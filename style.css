@@ -262,11 +262,24 @@ footer .ul-2{
     margin-right: -30px;
 }
 
+.social-icon{
+    display: flex;
+    font-size: 30px;
+    
+    margin-left: 310px;
+}
 
+.social-icon, .icon{
+    margin-right: -90px;
+}
 
 .footer p{
     text-align: center;
+    font-size: 12px;
 }
 
+.footer p, footer .ul-2{
+    color: gray;
+}
 
 /* footer end */
