@@ -160,6 +160,10 @@ section{
 
 /* We are gamer end */
 
+
+
+
+
 /* Online Games Funny Videos start */
 
 .online-games-funny-v{
@@ -203,21 +207,20 @@ section{
 /* games-section */
 
 .section{
-    height: 400px;
+   height: 400px;
 }
 
 .games-section1 div img{
-    width: 20px;
-    margin: 0;
+   width: 10px;
 }
 
 .games-section1 div p{
     font-size: 10px;
 }
 
-.games-section1 div {
+.games-section1 {
     display: flex;
-    flex-direction: row;
+    
     
 }
 
