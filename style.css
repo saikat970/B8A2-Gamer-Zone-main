@@ -1,6 +1,7 @@
 *{
     margin: 0 40px;
     font-family: 'lato', sans-serif;
+   
 }
 
 header{
@@ -160,6 +161,7 @@ button{
     max-width: 1400px;
     display: flex;
     padding: 10px;
+    margin-right: -20px;
 }
 
 .online-games-img img{
@@ -218,3 +220,21 @@ button{
     border: 1px solid black;
     border-radius: 40px;
 }
+
+/* footer start */
+
+.footer{
+    max-width: 1440px;
+    margin: 0 50px;
+    margin-right: 10px;
+    background-color: #0B0223;
+    color: white;
+    margin-top: 20px;
+}
+
+.footer p{
+    text-align: center;
+}
+
+
+/* footer end */
