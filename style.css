@@ -92,7 +92,45 @@ button{
 
 /* We are gamer start */
 
+section{
+    height: 200px;
+    display: flex;
+    margin: 20px 40px;
+}
 
+.img img{
+    width: 500px;
+}
+
+.we-are-gamer-text{
+    text-align: end;
+}
+
+.we-are-gamer-text h2{
+    text-align: right;
+    color: skyblue;
+    font-size: 35px;
+    font-weight: 700px;
+}
+
+.we-are-gamer-text p{
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.w-r-g-btn{
+    background-color: blue;
+    color: white;
+    border-radius: 50px;
+    border: none;
+    padding: 10px 30px;
+}
+
+.un-text{
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: -5px;
+}
 
 /* We are gamer end */
 
