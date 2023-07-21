@@ -171,6 +171,10 @@ button{
 
 /* games-section */
 
+.section{
+    padding: 20px;
+}
+
 .games-section1{
     display: flex;
     width: 800px;
@@ -194,11 +198,23 @@ button{
     
 }
 
-
-
 .games-section1 div:hover{
     border: 1px solid black;
     border-radius: 40px;
-    padding: 0;
+    padding: 2px;
 }
 
+.games-section2{
+    display: flex;
+}
+
+.games-section2 div{
+    display: flex;
+    margin-top: 30px;
+    padding: 2px;
+}
+
+.games-section2 div:hover{
+    border: 1px solid black;
+    border-radius: 40px;
+}
