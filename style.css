@@ -230,8 +230,10 @@ button{
     background-color: #0B0223;
     color: white;
     margin-top: 20px;
+    padding: 80px 0px;
     
 }
+
 
 footer li{
     list-style: none;
@@ -251,7 +253,16 @@ footer .ul-2{
 
 .footer-logo{
     text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
 }
+
+.footer-logo img{
+    margin-right: -30px;
+}
+
+
 
 .footer p{
     text-align: center;
