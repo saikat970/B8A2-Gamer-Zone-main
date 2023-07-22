@@ -119,7 +119,7 @@ button{
 /* Play Games star  */
 
 .play-online{
-    
+    display: flex;
     margin: 80px 70px;
     padding: ;
 }
@@ -129,7 +129,10 @@ button{
     height: 200px;
 }
 
-
+.play-online-text{
+    text-align: left;
+    margin-top: 100px;
+}
 
 
 /* Play Games end  */
@@ -179,9 +182,6 @@ section{
 /* We are gamer end */
 
 
-
-
-
 /* Online Games Funny Videos start */
 
 .online-games-funny-v{
@@ -221,30 +221,6 @@ section{
 }
 
 /* Online Games Funny Videos end */
-
-/* games-section */
-
-.section{
-   height: 400px;
-}
-
-.games-section1 div img{
-   width: 10px;
-}
-
-.games-section1 div p{
-    font-size: 10px;
-}
-
-.games-section1 {
-    display: flex;
-    
-    
-}
-
-.games-section1 .div1, .div2, .div3, .div4, .div5{
-    display: flex;
-}
 
 
 /* footer start */
