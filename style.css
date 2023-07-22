@@ -134,6 +134,20 @@ button{
     margin-top: 100px;
 }
 
+.pic{
+    position: relative;
+}
+
+.pic{
+    z-index: 1;
+}
+
+.imgs-78{
+    position:absolute;
+    top: 100px;
+    margin-left: 50px;
+}
+
 
 /* Play Games end  */
 
